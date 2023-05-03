@@ -1,5 +1,7 @@
 <h1 align="center"><img src="Power-BI.png" height="38"/> Power BI - Dashboards </h1>
 
+<h3 align="center">Minicursos de Power BI realizados nas plataformas Simplifica Treinamentos e Hashtag Treinamentos.</h3>
+
 <h3 align="center">📊 https://bit.ly/CarolinaMartinsDashboardsPowerBI</h3>
 
 <h3>▶️ Análise de RH</h3>
