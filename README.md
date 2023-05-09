@@ -1,6 +1,6 @@
 <h1 align="center"><img src="Power-BI.png" height="38"/> Power BI - Dashboards </h1>
 
-<h3 align="center">Minicursos de Power BI realizados nas plataformas Simplifica Treinamentos e Hashtag Treinamentos.</h3>
+<h3 align="center">Minicursos online de Power BI realizados na Simplifica Treinamentos e Hashtag Treinamentos.</h3>
 
 <p align="center"><a href="https://sites.google.com/view/carolina-martins/p%C3%A1gina-inicial" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a></p>
 
