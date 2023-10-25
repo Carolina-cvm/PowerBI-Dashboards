@@ -9,8 +9,8 @@
 <h3>▶️ Análise de Estoque</h3>
 <h3>▶️ Análise de Projetos</h3>
 <h3>▶️ Análise de Satisfação</h3>
-<h3>▶️ Análise de Financeiro</h3>
 <h3>▶️ Análise de Resultados</h3>
+<h3>▶️ Análise de Financeiro</h3>
 <h3>▶️ Análise de Pessoal e Financeira</h3>
 
 <h3 align="center">Feito com ❤️ </h3>
